@@ -1,0 +1,14 @@
+
+10234	Rahul Mehta	MEC	
+10456	Priya Sharma	CSE	
+10879	Ankit Verma	EEE	
+10912	Neha Gupta	CIV	
+11234	Siddharth Reddy	ECE	
+11345	Kavya Iyer	IT	
+11567	Aman Singh	MME	
+11789	Ritu Jain	CME	
+11901	Deepak Patil	AIDS	
+12034	Sneha Nair	MIN	
+12345	Farah Khan	ARCI	
+31675	Nikhil Shinde	CSE	
+55265	Jinder Mahal	Chemical Engineering	

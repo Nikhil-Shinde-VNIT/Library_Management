@@ -1,0 +1,18 @@
+46676	Pride and Justice	Jane Austen
+37252	1984	George Orwell
+51200	The Great Gatsby	F. Scott Fitzergerald
+45354	Moby-Dick	Herman Melville
+63932	Sapiens	Yuval Noah Harari
+43601	The Art of War	Sun Tzu
+45938	A Brief History Of Time	Stephen Hawking
+35773	The Diary of Young Girl	Anne Frank
+61843	Dune	Frank Herbert
+64332	The Hobbit	J.R.R Tolkien
+35808	Harry Potter VOL 1	J.K. Rowling
+31403	The Name of the Wind	Patrick Rothfuss
+67254	Brave New World	Aldus Huxly
+44788	The Power of Habit	Charles Duhigg
+40460	Atomic Habits	James Clear
+46596	Think and Grow Rich	Napolean Hill
+57490	The 7 habits of Highly Effective People	Stephen R. Covey
+45583	Chhava	Shivaji Sawant
